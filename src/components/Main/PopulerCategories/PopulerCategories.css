@@ -1,0 +1,28 @@
+.populer-categories-container{
+    border: 2px solid #FFCC01;
+    margin: 0px 216px;
+    height: 216px;
+
+}
+.box{
+    background-color: #E5E5E9;
+    width: 120px;
+    height: 120px;
+}
+.populer-categories-container h3{
+    font-size: 13px;
+    color: #06072C;
+}
+.populer-categories-container h2{
+    font-size: 20px;
+    color: #3E3F52;
+}
+.populer-categories-container p{
+    font-size: 17px;
+    color: #3E3F52;
+}
+.populer-categories-container button{
+    background-color: #FFCC01;
+    color: #06072C;
+    font-size: 13px;
+}

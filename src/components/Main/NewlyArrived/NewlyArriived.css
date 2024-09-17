@@ -1,0 +1,35 @@
+.newly-arrived-container{
+    margin: 0px 216px;
+}
+.newly-arived-box-1{
+    width: 216px;
+    height: 240px;
+    background-color: #E5E5E9;
+}
+.newly-arrived-container button{
+    background-color: #FFCC01;
+    color: #06072C;
+    border: 1px solid #FFCC01;
+    font-size: 12px;
+}
+.newly-arrived-container h3{
+    font-size: 13px;
+    color: #06072C;
+}
+.newly-arrived-container p{
+    font-size: 13px;
+    color: #3E3F52;
+}
+.newly-arrived-container span{
+    font-size: 13px;
+    color: #06072C;
+}
+.newly-arrived-container h2{
+    font-size: 20px;
+    color: #3E3F52;
+}
+.newly-arived-box-2{
+    width: 456px;
+    height: 240px;
+    background-color: #E5E5E9;
+}

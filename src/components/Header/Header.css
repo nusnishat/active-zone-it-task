@@ -1,0 +1,36 @@
+.header-container{
+    padding: 8px 216px 16px 216px;
+    margin-bottom: 16px;
+    background-color: #06072C;
+    /* height: 120px; */
+}
+.logo-text{
+    color: #FFCC01;
+    font-size: 24px;
+}
+.form{
+    width: 696px;
+    height: 40px;
+}
+a{
+    font-size: 13px;
+}
+.span-gray{
+    font-size: 13px;
+    color: #929292;
+    text-decoration: none;
+}
+.span-yellow{
+    font-size: 13px;
+    color: #FFCC01;
+    text-decoration: none;
+}
+.user-icon{
+    background-color: #797979;
+    color: #FFCC01;
+    height: 32px;
+    width: 32px;
+}
+.icon{
+    color: #FFCC01;
+}

@@ -1,0 +1,28 @@
+.sales-container{
+    background-color: #fff1eb;
+    height: 320px;
+    width: 696px;
+}
+.sales-box{
+    background-color: #E5E5E9;
+    height: 160px; /* Set a height for the boxes */
+    width: 200px;   /* Full width of the column */
+    
+}
+.sales-container h2{
+    font-size: 20px;
+    color: #3E3F52;
+}
+
+.sales-container  h3{
+    font-size: 17px;
+    color: #3E3F52;
+}
+.sales-container  p{
+    font-size: 13px;
+    color: #3E3F52;
+}
+.heading p{
+    color:#0B80FD;
+    font-size: 12px;
+}

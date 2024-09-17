@@ -1,0 +1,12 @@
+.Shop-by-categories-container{
+    padding: 32px 216px;
+    background-color: #FAFAFC;
+}
+.Shop-by-categories-container h1{
+    font-size: 30px;
+    color: #3E3F52;
+}
+.Shop-by-categories-container p{
+    font-size: 13px;
+    color: #3E3F52; 
+}

@@ -1,0 +1,29 @@
+.offers-container{
+    height: 344px;
+    width: 1416px;
+    background-color: hsl(48, 100%, 79%);
+    padding: 16px 100px;
+    margin: 0px 216px;
+}
+.offers-container h1{
+    color: #06072C;
+    font-size: 40px;
+}
+ .offers-container p{
+    color: #3E3F52;
+    font-size: 17px;
+}
+.btn-shop-now{
+    background-color: #06072C;
+    border: 1px solid #06072C;
+    color: white;
+    font-size: 13px;
+}
+span{
+    font-size: 13px;
+}
+.box{
+    background-color: #FAFAFC;
+    /* width: 600px;
+    height: 320px; */
+}

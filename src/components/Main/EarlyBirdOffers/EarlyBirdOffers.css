@@ -1,0 +1,30 @@
+.early-bird-offers-container{
+    margin: 0px 216px;
+}
+.early-bird-offers-box-1{
+    width: 208px;
+    height: 208px;
+    background-color: #E5E5E9;
+}
+.early-bird-offers-button{
+    background-color: #FFCC01;
+    color: #06072C;
+    border: 1px solid #FFCC01;
+}
+h3{
+    font-size: 13px;
+    color: #06072C;
+}
+span{
+    font-size: 13px;
+    color: #06072C;
+}
+h2{
+    font-size: 20px;
+    color: #3E3F52;
+}
+
+p{
+    color: #0B80FD;
+    font-size: 12px;
+}

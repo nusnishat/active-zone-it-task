@@ -1,0 +1,38 @@
+.deals-container{
+    background-color: #e4f1ff;
+    width: 696px;
+    height: 320px;
+}
+.deal-box-1{
+    background-color: #E5E5E9;
+    height: 220px; /* Set a height for the boxes */
+    width: 192px;   /* Full width of the column */
+}
+button{
+    font-size: 17px;
+    color: #06072C;
+    background-color: #FFCC01;
+    border: 1px solid #FFCC01;
+}
+.deals-container h2{
+    font-size: 20px;
+    color: #3E3F52;
+}
+
+.deals-container h3{
+    font-size: 17px;
+    color: #3E3F52;
+}
+.deals-container span{
+    font-size: 13px;
+    color: #3E3F52;
+}
+.heading-span{
+    color:#0B80FD;
+    font-size: 12px;
+}
+.deal-box-2{
+    background-color: #E5E5E9;
+    height: 64px; /* Set a height for the boxes */
+    width: 64px;   /* Full width of the column */
+}
